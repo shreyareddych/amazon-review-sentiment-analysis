@@ -169,6 +169,3 @@ git push
 
 ---
 
-## Author
-
-Shreya Reddy
